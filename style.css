@@ -3,3 +3,28 @@
     margin: 0;
     padding: 0;
 }
+.container{
+    margin: 0 auto;
+    width: 1200px;
+}
+/*block*/
+.block{
+   width: 1000px;
+   background-color: blanchedalmond;
+   border-radius: 10px;
+}
+.block h1{
+    text-align: center;
+}
+.text{
+    display: flex;
+    margin-top: 10px;
+}
+.text p{
+    font-size: 22px;
+}
+.text img{
+    border-radius: 10px;
+    width: 50%;
+    height: 100%;
+}
