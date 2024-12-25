@@ -28,3 +28,7 @@
     width: 50%;
     height: 100%;
 }
+.tilek {
+    width: 1200px;
+    border: 2 px solid green;
+} 
